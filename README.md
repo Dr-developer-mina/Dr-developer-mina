@@ -1,2 +1,2 @@
 ### Hello everyone,
-I am pharmacist who loved Web development & programming and finally followed my passion. wish me good luck 
+Junior Frontend Developer | React | Next JS - Route Academy Internship, HTML Email Developer, Ex-Nestlé Saudi Arabia.
